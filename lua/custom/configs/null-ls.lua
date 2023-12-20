@@ -5,6 +5,7 @@ local b = null_ls.builtins
 local sources = {
   -- zig
   -- b.formatting.zls,
+  -- b.formatting.tflint,
 
   -- Lua
   b.formatting.stylua,
