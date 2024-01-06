@@ -15,6 +15,7 @@ local sources = {
 
   -- cpp
   b.formatting.clang_format,
+  b.formatting.jq,
 }
 
 null_ls.setup {
